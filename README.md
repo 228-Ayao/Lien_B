@@ -1,2 +1,2 @@
-# Sous-problématique_1
-Est-ce que l'époque influe sur les dimensions des œuvres d'art léguées par la famille Rothschild ?
+# Sous-problématique_2
+Est-ce que le type de peinture utilisé est différent en fonction des dimensions ? / et en fonction de la date de création ?
